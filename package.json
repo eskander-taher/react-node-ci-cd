@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-node",
+  "version": "1.0.0",
+  "description": "1. the backend server should be in the root dir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
